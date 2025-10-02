@@ -11,6 +11,10 @@ This project focuses on predictive maintenance for industrial gearboxes by diagn
 - [How to Run](#how-to-run)
 - [Results](#results)
 
+<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/0339efcf-9178-4690-807f-82ca11e6e16c" />
+<img width="1024" height="473" alt="image" src="https://github.com/user-attachments/assets/18025450-222f-424f-99e6-a036aa4fc506" />
+
+
 ## Overview
 In industrial machinery, gearboxes are critical components whose failure can lead to significant financial loss and safety hazards. This project demonstrates a data-driven approach to fault diagnosis. By capturing and analyzing vibrational signals from a gearbox, we can train a machine learning model to detect and classify faults before they become critical, enabling a proactive, predictive maintenance strategy.
 
